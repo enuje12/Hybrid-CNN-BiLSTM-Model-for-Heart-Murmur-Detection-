@@ -14,4 +14,4 @@ This notebook demonstrates a research project aimed at detecting heart murmurs f
 - Provided a **complete codebase** for training, evaluation, and inference to enable further research.
 
 ## NOTE
-All visualizations, outputs, and results (e.g., Mel spectrograms, confusion matrix, ROC curves, and metrics report) are available in the Jupyter Notebook file (.ipynb). Please open the notebook to view them.
+All visualizations, outputs, and results (e.g., Mel spectrograms, confusion matrix, ROC curves, and metrics report) are available in the Jupyter Notebook file (hi_model_3_(1).ipynb). Please open the notebook to view them.
