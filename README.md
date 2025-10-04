@@ -2,6 +2,8 @@
 
 - Developed a hybrid deep learning framework combining Convolutional Neural Networks (CNN), Bidirectional Long Short-Term Memory networks (BiLSTM), and attention mechanisms to detect heart murmurs from audio recordings.
 
+- Achieved 91.2% accuracy, 92.8% recall (sensitivity), and 0.94 ROC AUC on the test set.
+
 - Utilized smartphone microphone recordings as the data source, enabling accessible and low-cost cardiac screening without specialized medical equipment.
 
 - Designed a preprocessing pipeline that converts raw audio signals into standardized Mel spectrogram representations for effective feature extraction.
