@@ -1,6 +1,6 @@
-# Hybrid-CNN-BiLSTM-Model-for-Heart-Murmur-Detection-
--Main Contributions
-  -Developed a hybrid deep learning framework combining Convolutional Neural Networks (CNN), Bidirectional Long Short-Term Memory networks (BiLSTM), and attention mechanisms to detect heart murmurs from audio recordings.
+# Main Contributions
+
+- Developed a hybrid deep learning framework combining Convolutional Neural Networks (CNN), Bidirectional Long Short-Term Memory networks (BiLSTM), and attention mechanisms to detect heart murmurs from audio recordings.
 
   -Utilized smartphone microphone recordings as the data source, enabling accessible and low-cost cardiac screening without specialized medical equipment.
 
